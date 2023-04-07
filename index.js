@@ -18,7 +18,8 @@ else {
 /* 2. Write a JavaScript conditional statement to find the sign of a number. Display
 an alert box with the specified sign.*/
 
-/* let num = +prompt("write any number which is positive or negative");
+/* 
+let num = +prompt("write any number which is positive or negative");
 if (num >= 0)
 {
     alert("The sign is +");
@@ -26,7 +27,8 @@ if (num >= 0)
 else if (num < 0) {
     alert("The sign is -");
 
-} */
+} 
+*/
 
 /* 3. Write a JavaScript program that accepts five numbers in five prompts and
 displays the larger one in the console. */
